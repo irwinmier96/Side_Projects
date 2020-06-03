@@ -4,3 +4,7 @@ world changing events within this year, Trump is widely criticized for his abysm
 the coronavirus, his constant provocations for anyone who doesn't agree with him, the supposed conspiracy of "Obamagate" and alleged
 voter fraud from the oppsing party, and most recently, his handling of the protests in the wake of recent police brutality against Black men.
 This project covers the words that appear most frequently from Trump tweets, as well as mentions and hashtags the president tends to use.
+
+
+The project may be updated as the current protests are still ongoing. This will track how Trump sees the protests and 
+his attitudes towards the current situation.
