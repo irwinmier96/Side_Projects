@@ -1,3 +1,4 @@
+## How @realDonaldTrump Used Twitter in 2020
 This project tracks the tweets from US President Donald Trumps twitter account since the beginning of 2020. In the wake of many 
 world changing events within this year, Trump is widely criticized for his abysmal response to
 the coronavirus, his constant provocations for anyone who doesn't agree with him, the supposed conspiracy of "Obamagate" and alleged
